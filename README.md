@@ -23,7 +23,7 @@ The main objective is to **identify key influencing factors** and **predict whet
 |--------|-------------|---------------------------|
 | **Umar Khan** | B.Tech | Computer Science – DS + AI |
 | **Adil Khan** | B.Tech | Computer Science – DS + AI |
-
+|**Priyanshu Verma** | B.Tech| Computer Science - DS+AI |
 ---
 
 ## 🧰 Tech Stack
@@ -106,11 +106,10 @@ We performed binary classification (**Pass / Fail**) using:
 
 | Metric | Logistic Regression | Random Forest |
 |--------|---------------------|----------------|
-| Accuracy | ~X% | ~X% |
-| ROC-AUC | ~X | ~X |
+| Accuracy | 99.8% | 100% |
+| ROC-AUC | 0.9999879876994042 | 1.0|
 | Notes | Baseline model | Best performer |
 
-> **Replace `X` with your actual results from notebook.**
 
 ---
 
@@ -164,19 +163,3 @@ This project is intended for academic, skill-building, and research purposes onl
 Not allowed for commercial resale without consent of the authors.
 
 ---
-
-## 📬 Contact
-
-For collaboration, improvements, or feedback:
-
-📧 Email: *(add if you want)*  
-⭐ GitHub: *(add repo link once uploaded)*
-
----
-
-> **If you want, I can also add:**  
-> 🔹 GitHub badges (stars, forks, visitor count)  
-> 🔹 A project banner/header  
-> 🔹 Abstract + PPT + Report PDF  
-> 🔹 Deployment UI (Streamlit)
-

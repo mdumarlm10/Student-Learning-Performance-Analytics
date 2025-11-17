@@ -24,6 +24,7 @@ The main objective is to **identify key influencing factors** and **predict whet
 | **Umar Khan** | B.Tech | Computer Science – DS + AI |
 | **Adil Khan** | B.Tech | Computer Science – DS + AI |
 |**Priyanshu Verma** | B.Tech| Computer Science - DS+AI |
+|**Aryan Verma** | B.Tech| Computer Science - DS+AI |
 ---
 
 ## 🧰 Tech Stack
